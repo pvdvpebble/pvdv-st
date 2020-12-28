@@ -1,3 +1,11 @@
+# Personal Readme
+
+## Patches
+* Dracula Theme
+* Scrollback patch
+
+# Original Suckless Readme
+
 st - simple terminal
 --------------------
 st is a simple terminal emulator for X which sucks less.
