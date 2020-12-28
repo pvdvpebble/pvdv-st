@@ -4,6 +4,7 @@
 * Dracula Theme
 * Scrollback patch (shift+pgup/pgdown & mousewheel)
 * New Term patch
+* CopyUrl Higlight patch (mod+;)
 
 # Original Suckless Readme
 
