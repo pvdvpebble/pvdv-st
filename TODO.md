@@ -1,3 +1,8 @@
+# Personal TODO
+
+
+# Original Suckless TODO
+
 vt emulation
 ------------
 
