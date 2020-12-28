@@ -2,7 +2,8 @@
 
 ## Patches
 * Dracula Theme
-* Scrollback patch
+* Scrollback patch (shift+pgup/pgdown & mousewheel)
+* New Term patch
 
 # Original Suckless Readme
 
