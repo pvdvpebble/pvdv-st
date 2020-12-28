@@ -1,3 +1,9 @@
+# Personal Readme
+
+## Patches
+* Dracula Theme
+* Scrollback patch
+
 # Original Suckless Readme
 
 st - simple terminal
